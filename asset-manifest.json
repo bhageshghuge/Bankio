@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/bhageshghuge/Bankio/static/js/main.2e1fa14b.js",
-    "index.html": "/bhageshghuge/Bankio/index.html",
-    "main.2e1fa14b.js.map": "/bhageshghuge/Bankio/static/js/main.2e1fa14b.js.map"
+    "main.js": "/Bankio/static/js/main.2e1fa14b.js",
+    "index.html": "/Bankio/index.html",
+    "main.2e1fa14b.js.map": "/Bankio/static/js/main.2e1fa14b.js.map"
   },
   "entrypoints": [
     "static/js/main.2e1fa14b.js"
